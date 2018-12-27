@@ -63,6 +63,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         generateTimesTable(10);
-        generateTimesTable(10);
     }
 }
